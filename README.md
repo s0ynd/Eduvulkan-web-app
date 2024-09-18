@@ -1,2 +1,2 @@
 # Eduvulkan-web-app
-The new playstore app sucks
+This app uses eduvulkan site for engine bc play store app sucks 
