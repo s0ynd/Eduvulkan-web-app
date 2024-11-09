@@ -1,7 +1,7 @@
 # Mountain 
 Mountain the app thats based on https://eduvulcan.pl/ i dont know should i still do the developering
 
-#PROTON PASS LOGIN SETUP
+# PROTON PASS LOGIN SETUP
 1.install proton pass https://github.com/protonpass/android-pass
 2.setup app and login or signup 
 3.go to app (Mountain) and try to login
