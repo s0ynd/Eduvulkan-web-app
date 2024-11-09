@@ -1,4 +1,4 @@
 # Mountain 
-mountain is app thats easily runs web version of app no paid from play store maid by one guy from 8B 
-THANK YOU TO MY SMALL FREIND WHO CREATED ICON-дякую карлик 😜
-
+Mountain the app thats based on https://eduvulcan.pl/ i dont know should i still do the developering
+KNOWN ISSUES
+-login (site problem) gonna test using my app with some other app to fix it
