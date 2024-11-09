@@ -14,3 +14,19 @@ Mountain the app thats based on https://eduvulcan.pl/ i dont know should i still
 -login (site problem) u can fix it with macro or smth like proton pass
 IF U GOT ANY ISSUES PLEASE REPORT IT 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# shhh
+maybe sneakpeak i gonna try to add extensions (idk how but i will learn) + i wanna add themes like dark mode :D
